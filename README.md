@@ -246,5 +246,6 @@ public class CountdownActivity extends Activity {
 2. Запустіть емулятор або підключіть пристрій.
 3. Натисніть "Run" для збірки та запуску.
 4. Натисніть "Start" для початку відліку від 10 секунд.</content>
-<parameter name="filePath">c:\Users\yuliitezary\AndroidStudioProjects\MyApplication2\README.md#   t z 2  
+<parameter name="filePath">c:\Users\admin\AndroidStudioProjects\MyApplication2\README.md#   t z 2 
+ 
  
